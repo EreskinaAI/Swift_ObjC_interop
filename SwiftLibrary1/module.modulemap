@@ -1,0 +1,11 @@
+//
+//  module.modulemap
+//  SwiftObjCLibraries
+//
+//  Created by Анна Ереськина on 12.07.2021.
+//
+
+module ModuleObjcLibrary2 {
+    umbrella header "../ObjcLibrary2/UmbrellaHeader.h"
+    export *
+}
